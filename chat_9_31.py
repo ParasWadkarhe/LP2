@@ -22,7 +22,7 @@ def chatbot():
 chatbot()
 
 
-
+# 2nd
 def get_response(message):
     """
     Returns a response based on the user's input message.
